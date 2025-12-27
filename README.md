@@ -1,4 +1,5 @@
-# Dicoding Collection Dashboard ✨
+# Bike Sharing Dataset Dashboard
+A data analysis project exploring bike-sharing usage patterns across seasons, weekdays, and weather conditions. This project uses data visualization to uncover trends in user behavior and support data-driven insights.
 
 ## Setup Environment - Shell/Terminal
 ```
